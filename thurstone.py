@@ -1,24 +1,3 @@
-# Ideas:
-    # bubble idea with order items
-    # ANOVA --> t-test
-    # Find diminishing MRS in graph
-    # Encompass variance in formula
-    # For anova, check:
-    	# Normality
-		# Homogeneity of variance
-		# Homogeneity of covariance and sphericity
-		# Independence of observations
-
-
-
-# for pip, use py -m pip (command here)
-
-# py -m pip install pandas
-
-# Create a GUI for thsi and release it on GitHub
-
-
-# Remove poeple who only clicked zero times in both conditions then remove them
 
 import pandas as pd
 import numpy as np
