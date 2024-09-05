@@ -1,7 +1,3 @@
-# for pip, use py -m pip (command here)
-
-# Created by Andrew Glen Scutt
-
 import pandas as pd
 import numpy as np
 import scipy.stats as st
